@@ -1,0 +1,87 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>The main objective of the Placement Office Automation is to manage the details of Company, Resumes, Skills, Users, Registration. It manages all the information about Company, Placements, Registration, Company. ... It tracks all the details about the Skills, Users, Registration. Placement Management System manages student information in the college with regard to placement. It improves existing system . It has the facility of maintaining the details of the student, thereby reducing the manual work. ... Placement Management System can be accessed throughout the college with proper login provided.</value>
+  </data>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAA/tJREFUaEPt
+        mUnPDUEUhj8xh5inWLEUgj9hnu1MO8LGEGwNa6wkEr+DICSIeZ5jZmVYCHamIDxPx0lurjt099fd9/ri
+        TZ7cW93VXVVdVadOner5rz6sMbAc9sMxeAIf4dsf/P8YvGeeZTAaukJDYB2cgp/wKyM/4CSshcFQuYbC
+        DngLUamvcAZ2gT0zDfziA//gf695bzecBZ+J59/AdvDjVKJF8BKiAjdgPYyErBoFG+AmxPtewAIoTX6p
+        wxAF3oK5UJTmwx2I9x+CwntnElhxC/gEm6E/FC3fuRU+g2XZ2xOhEE0Fu9sXa3VmQNmaCU/BMp+DdeiV
+        xkO88DqMg6qkcbgIlu2cdFTkkuMzhtNlGAZVyzKvgnVwmOWaMzGxHU4udp3SWIhRoQHIJE2sDzqxq5gT
+        7eScCQOgdUslF7tYJ7RO3aJtYJ2c/KmG2E7wAedHGSY2rwbAXbBuNqql9Hd0Fcw8xwtdpoVg3XSNWvaK
+        zpsZtRB5pInU3biSpIpXPwhLutoLzaQXayZ9p6yyEY/A52+DhZahjWAZJ5JUA2lidav1SLM6gLoR0QjN
+        de7FK4VcKN3ffIeG9VwBVuR0kkqvCfAAfNbN1GQoW+fA8pYkqTodAG+6n0gre+IhVNETtdoLlrkvSdXJ
+        Lag3lyap9tIPq7onQjF6jiSpOj0Db7qLa6fa4VRlT4SmQ3zAv/QBvNnOr7In7kO8qMqeCOmFW/67JFUn
+        LYE3ByWpxtKkRiPK5AK0kgu3+bSwfyltQ+5BbaFlcB5aqWVD8gwt3etODC3rYPkNh1afmexhfo0AplGt
+        +a26Z1aC5TY0v7EgGjxLq65cEI0AetNoYRbVDrOqeiZclMVJqk46Y+E0GgHMoiqdRo1ROI0jvNBIBpSt
+        jGHMrLLy0Rh3cmVpE1jG8STVRGvATG6O8sjG2AhDOGXIdcy9jnVc5YVmcqF5DWac54Uuk3PCur2CtscQ
+        hvbNbMu7LfgQXsUWL7STm/qI9RpQ7hbFB9Yytu2NkOcTPmRQzOBYpzUbvoB1ynyUYXgyvoBhy05JD8Kg
+        nHU56IWscogZFvIFWqFOBLGHwzWwDv6mHlL18mvomPkijxVMVyUXvktg2c7ZXh/4eMgSXeswmwVlyzkR
+        ZeqVT4FC5NeIYaYBMPaqOSxavlPrFBPb4aQvV6icM2EAxBW8qNNXV2yPMmp3n07s3HMijTyfiG4XY7GG
+        MXU6s8p5oO8Uboc4lIo8LW4pe8fhFe6M6JHqXu8B407u4jTbxgDE/x4auSkyj3kjTiC6Ha7YpfZCM1mo
+        UXEDym4BolJp0RV3Z6oD2JEGNJIBZWOx7tqOgvuS9+BXF//r5rs9NY95m+4n/uvfVk/PbyGlcBSqZB00
+        AAAAAElFTkSuQmCC
+</value>
+  </data>
+</root>

@@ -1,0 +1,87 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing.Common" name="System.Drawing.Common, Version=4.0.2.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" />
+  <data name="button1.Image" type="System.Drawing.Bitmap, System.Drawing.Common" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAP7SURBVGhD7ZlJzw1BFIY/MYeYp1ixFII/YZ7tTDvCxhBsDWusJBK/gyAkiHmeY2ZlWAh2piA8
+        T8dJbq47dPfX3ff64k2e3Fvd1V1VXVWnTp3q+a8+rDGwHPbDMXgCH+HbH/z/GLxnnmUwGrpCQ2AdnIKf
+        8CsjP+AkrIXBULmGwg54C1Gpr3AGdoE9Mw384gP/4H+veW83nAWfieffwHbw41SiRfASogI3YD2MhKwa
+        BRvgJsT7XsACKE1+qcMQBd6CuVCU5sMdiPcfgsJ7ZxJYcQv4BJuhPxQt37kVPoNl2dsToRBNBbvbF2t1
+        ZkDZmglPwTKfg3XolcZDvPA6jIOqpHG4CJbtnHRU5JLjM4bTZRgGVcsyr4J1cJjlmjMxsR1OLnad0liI
+        UaEByCRNrA86sauYE+3knAkDoHVLJRe7WCe0Tt2ibWCdnPyphthO8AHnRxkmNq8GwF2wbjaqpfR3dBXM
+        PMcLXaaFYN10jVr2is6bGbUQeaSJ1N24kqSKVz8IS7raC82kF2smfaesshGPwOdvg4WWoY1gGSeSVANp
+        YnWr9UizOoC6EdEIzXXuxSuFXCjd33yHhvVcAVbkdJJKrwnwAHzWzdRkKFvnwPKWJKk6HQBvup9IK3vi
+        IVTRE7XaC5a5L0nVyS2oN5cmqfbSD6u6J0Ixeo4kqTo9A2+6i2un2uFUZU+EpkN8wL/0AbzZzq+yJ+5D
+        vKjKngjphVv+uyRVJy2BNwclqcbSpEYjyuQCtJILt/m0sH8pbUPuQW2hZXAeWqllQ/IMLd3rTgwt62D5
+        DYdWn5nsYX6NAKZRrfmtumdWguU2NL+xIBo8S6uuXBCNAHrTaGEW1Q6zqnomXJTFSapOOmPhNBoBzKIq
+        nUaNUTiNI7zQSAaUrYxhzKyy8tEYd3JlaRNYxvEk1URrwExujvLIxtgIQzhlyHXMvY51XOWFZnKheQ1m
+        nOeFLpNzwrq9grbHEIb2zWzLuy34EF7FFi+0k5v6iPUaUO4WxQfWMrbtjZDnEz5kUMzgWKc1G76Adcp8
+        lGF4Mr6AYctOSQ/CoJx1OeiFrHKIGRbyBVqhTgSxh8M1sA7+ph5S9fJr6Jj5Io8VTFclF75LYNnO2V4f
+        +HjIEl3rMJsFZcs5EWXqlU+BQuTXiGGmATD2qjksWr5T6xQT2+GkL1eonDNhAMQVvKjTV1dsjzJqd59O
+        7NxzIo08n4huF2OxhjF1OrPKeaDvFG6HOJSKPC1uKXvH4RXujOiR6l7vAeNO7uI028YAxP8eGrkpMo95
+        I04guh2u2KX2QjNZqFFxA8puAaJSadEVd2eqA9iRBjSSAWVjse7ajoL7kvfgVxf/6+a7PTWPeZvuJ/7r
+        31ZPz28hpXAUqmQdNAAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>The main objective of the Placement Office Automation is to manage the details of Company, Resumes, Skills, Users, Registration. It manages all the information about Company, Placements, Registration, Company. ... It tracks all the details about the Skills, Users, Registration. Placement Management System manages student information in the college with regard to placement. It improves existing system . It has the facility of maintaining the details of the student, thereby reducing the manual work. ... Placement Management System can be accessed throughout the college with proper login provided.</value>
+  </data>
+</root>
